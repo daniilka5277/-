@@ -1,0 +1,29 @@
+C:\Users\Pushka\source\repos\Variant 11\obj\Debug\Variant 11.csproj.AssemblyReference.cache
+C:\Users\Pushka\source\repos\Variant 11\obj\Debug\MainWindow.g.cs
+C:\Users\Pushka\source\repos\Variant 11\obj\Debug\NewWindow\WindowNewGroup.g.cs
+C:\Users\Pushka\source\repos\Variant 11\obj\Debug\NewWindow\WindowNewQualification.g.cs
+C:\Users\Pushka\source\repos\Variant 11\obj\Debug\NewWindow\WindowNewSpeciality.g.cs
+C:\Users\Pushka\source\repos\Variant 11\obj\Debug\WindowModel\WindowFormEducation.g.cs
+C:\Users\Pushka\source\repos\Variant 11\obj\Debug\WindowModel\WindowGroup.g.cs
+C:\Users\Pushka\source\repos\Variant 11\obj\Debug\WindowModel\WindowQualification.g.cs
+C:\Users\Pushka\source\repos\Variant 11\obj\Debug\WindowModel\WindowSpeciality.g.cs
+C:\Users\Pushka\source\repos\Variant 11\obj\Debug\App.g.cs
+C:\Users\Pushka\source\repos\Variant 11\obj\Debug\Variant 11_MarkupCompile.cache
+C:\Users\Pushka\source\repos\Variant 11\obj\Debug\Variant 11_MarkupCompile.lref
+C:\Users\Pushka\source\repos\Variant 11\bin\Debug\Variant 11.exe.config
+C:\Users\Pushka\source\repos\Variant 11\bin\Debug\Variant 11.exe
+C:\Users\Pushka\source\repos\Variant 11\bin\Debug\Variant 11.pdb
+C:\Users\Pushka\source\repos\Variant 11\obj\Debug\MainWindow.baml
+C:\Users\Pushka\source\repos\Variant 11\obj\Debug\NewWindow\WindowNewGroup.baml
+C:\Users\Pushka\source\repos\Variant 11\obj\Debug\NewWindow\WindowNewQualification.baml
+C:\Users\Pushka\source\repos\Variant 11\obj\Debug\NewWindow\WindowNewSpeciality.baml
+C:\Users\Pushka\source\repos\Variant 11\obj\Debug\WindowModel\WindowFormEducation.baml
+C:\Users\Pushka\source\repos\Variant 11\obj\Debug\WindowModel\WindowGroup.baml
+C:\Users\Pushka\source\repos\Variant 11\obj\Debug\WindowModel\WindowQualification.baml
+C:\Users\Pushka\source\repos\Variant 11\obj\Debug\WindowModel\WindowSpeciality.baml
+C:\Users\Pushka\source\repos\Variant 11\obj\Debug\Variant 11.g.resources
+C:\Users\Pushka\source\repos\Variant 11\obj\Debug\Variant_11.Properties.Resources.resources
+C:\Users\Pushka\source\repos\Variant 11\obj\Debug\Variant 11.csproj.GenerateResource.cache
+C:\Users\Pushka\source\repos\Variant 11\obj\Debug\Variant 11.csproj.CoreCompileInputs.cache
+C:\Users\Pushka\source\repos\Variant 11\obj\Debug\Variant 11.exe
+C:\Users\Pushka\source\repos\Variant 11\obj\Debug\Variant 11.pdb
